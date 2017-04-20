@@ -8,7 +8,7 @@ cask 'docker'
 cask 'gpgtools'
 cask '1password'
 cask 'adobe-creative-cloud'
-cask 'dash
+cask 'dash'
 mas 'Keynote', id: 409183694 
 mas 'Slack', id: 803453959
 mas 'Artful', id: 940324777
