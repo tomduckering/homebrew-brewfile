@@ -1,6 +1,8 @@
 cask_args appdir: '/Applications'
 tap 'caskroom/cask'
 tap 'telemachus/brew', 'https://telemachus@bitbucket.org/telemachus/brew.git'
+brew 'node'
+brew 'heroku'
 cask 'google-chrome'
 cask 'ableton-live-suite'
 cask 'omnigraffle'
