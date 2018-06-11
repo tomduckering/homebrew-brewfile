@@ -7,3 +7,6 @@ mas 'Keynote', id: 409183694
 mas 'Pixelmator', id: 407963104
 brew 'rbenv'
 brew 'rbenv-gemset'
+cask 'iterm2'
+cask 'slack'
+cask "docker"
